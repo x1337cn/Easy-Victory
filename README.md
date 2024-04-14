@@ -1,2 +1,4 @@
 ### Installation :
-+ **Download Module Here** [Download it HERE](https://github.com/x1337cn/Easy-Victory/raw/main/PLUGIN%20ROOT.apk)
++ **Download Module Here** [Download it HERE](https://www.mediafire.com/file/0yze8yniq0j4osk/EasyVictory-x1337cn.apk/file)
++ **Facebook Login Fix** [Watch it HERE]
+(https://youtu.be/AIJ_YzfXYWo?si=IhGT3-S9dAwfDapy)
